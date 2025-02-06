@@ -1,4 +1,4 @@
-#include "Window.h"
+﻿#include "Window.h"
 
 bool Window::Init()
 {
@@ -262,5 +262,5 @@ LRESULT CALLBACK Window::WndProc(HWND hwnd, UINT msg, WPARAM wP, LPARAM lP)
 	}
 		return DefWindowProcW(hwnd, msg, wP, lP);
 
-		//PIDARAS SVASTIKA
+		//PIDARAS SVASTIKA 卐 )) 
 }
