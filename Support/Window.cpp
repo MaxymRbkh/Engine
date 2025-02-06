@@ -261,6 +261,4 @@ LRESULT CALLBACK Window::WndProc(HWND hwnd, UINT msg, WPARAM wP, LPARAM lP)
 		break;
 	}
 		return DefWindowProcW(hwnd, msg, wP, lP);
-
-		//PIDARAS SVASTIKA 卐 )) 
 }
