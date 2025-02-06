@@ -1,0 +1,15 @@
+﻿  Window.cpp
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.h(33,10): warning C4244: 'return': conversion from 'const UINT64' to 'UINT', possible loss of data
+  (compiling source file 'Support/Window.cpp')
+  
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.h(37,10): warning C4244: 'return': conversion from 'const UINT64' to 'UINT', possible loss of data
+  (compiling source file 'Support/Window.cpp')
+  
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(40,3): warning C4244: 'argument': conversion from 'UINT64' to 'int', possible loss of data
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(39,3): warning C4244: 'argument': conversion from 'UINT64' to 'int', possible loss of data
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(54,33): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(58,14): warning C4244: '=': conversion from 'UINT64' to 'UINT', possible loss of data
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(59,15): warning C4244: '=': conversion from 'UINT64' to 'UINT', possible loss of data
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(136,51): warning C4244: 'argument': conversion from 'UINT64' to 'UINT', possible loss of data
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(136,42): warning C4244: 'argument': conversion from 'UINT64' to 'UINT', possible loss of data
+  PapizziEngine.vcxproj -> C:\Users\maxim\source\repos\PapizziEngine\x64\Debug\PapizziEngine.exe

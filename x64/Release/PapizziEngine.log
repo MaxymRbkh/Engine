@@ -1,0 +1,27 @@
+﻿  PapizziEngine.cpp
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\support\Window.h(33,10): warning C4244: 'return': conversion from 'const UINT64' to 'UINT', possible loss of data
+  (compiling source file 'PapizziEngine.cpp')
+  
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\support\Window.h(37,10): warning C4244: 'return': conversion from 'const UINT64' to 'UINT', possible loss of data
+  (compiling source file 'PapizziEngine.cpp')
+  
+  Window.cpp
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.h(33,10): warning C4244: 'return': conversion from 'const UINT64' to 'UINT', possible loss of data
+  (compiling source file 'Support/Window.cpp')
+  
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.h(37,10): warning C4244: 'return': conversion from 'const UINT64' to 'UINT', possible loss of data
+  (compiling source file 'Support/Window.cpp')
+  
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(39,3): warning C4244: 'argument': conversion from 'UINT64' to 'int', possible loss of data
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(38,3): warning C4244: 'argument': conversion from 'UINT64' to 'int', possible loss of data
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(48,33): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(52,14): warning C4244: '=': conversion from 'UINT64' to 'UINT', possible loss of data
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(53,15): warning C4244: '=': conversion from 'UINT64' to 'UINT', possible loss of data
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(130,51): warning C4244: 'argument': conversion from 'UINT64' to 'UINT', possible loss of data
+C:\Users\maxim\source\repos\PapizziEngine\PapizziEngine\Support\Window.cpp(130,42): warning C4244: 'argument': conversion from 'UINT64' to 'UINT', possible loss of data
+  Generating code
+  0 of 130 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PapizziEngine.vcxproj -> C:\Users\maxim\source\repos\PapizziEngine\x64\Release\PapizziEngine.exe
